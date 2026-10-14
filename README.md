@@ -21,7 +21,6 @@ Dữ liệu của dự án được xây dựng từ tập **CLINC150**, sau khi
 - **Dữ liệu tiếng Anh đã chọn:** `subset20_en.json`
 - **Dữ liệu tiếng Việt đã dịch/bản địa hoá:** `subset20_vi.json`
 
-> **Lưu ý:** Hãy thay `PASTE_CLINC150_DATASET_URL_HERE` bằng đường dẫn nguồn CLINC150 thực tế mà nhóm sử dụng. Dataset gốc không được lưu trực tiếp trong repository nhằm giữ repository gọn nhẹ. Vui lòng kiểm tra giấy phép và điều kiện sử dụng của nguồn dữ liệu gốc.
 
 ## 4. Cấu trúc thư mục
 
