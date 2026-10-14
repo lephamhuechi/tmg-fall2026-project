@@ -36,8 +36,6 @@ project/
 └── README.md
 ```
 
-Các file trong `batch_vi/` chỉ là dữ liệu trung gian được lưu trong quá trình dịch/copy từng đợt. Nếu dữ liệu cuối cùng đã được tổng hợp đầy đủ trong `subset20_vi.json`, nhóm không cần đưa các file batch này lên GitHub.
-
 ## 5. Mô tả dữ liệu
 
 | Tệp | Nội dung |
@@ -105,4 +103,4 @@ print(data[0])
 
 ## 11. Ghi chú
 
-README này mô tả cấu trúc dự kiến của repository. Trước khi công bố dự án, hãy cập nhật tên thư mục, tên trường JSON, số lượng mẫu và đường dẫn dataset để khớp với các tệp thực tế.
+README này mô tả cấu trúc dự kiến của repository.
