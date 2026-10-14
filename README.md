@@ -17,7 +17,7 @@ Ngoài các intent thuộc miền ngân hàng, dự án có lớp `out_of_scope`
 
 Dữ liệu của dự án được xây dựng từ tập **CLINC150**, sau khi chọn ra 20 intent được sử dụng trong phạm vi nghiên cứu và chuẩn bị dữ liệu tiếng Việt tương ứng.
 
-- **Dataset gốc CLINC150:** [Thay bằng đường dẫn nguồn CLINC150 mà nhóm sử dụng](https://github.com/clinc/oos-eval/)
+- **Dataset gốc CLINC150:(https://github.com/clinc/oos-eval/)
 - **Dữ liệu tiếng Anh đã chọn:** `subset20_en.json`
 - **Dữ liệu tiếng Việt đã dịch/bản địa hoá:** `subset20_vi.json`
 
