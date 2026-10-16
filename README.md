@@ -17,11 +17,10 @@ Ngoài các intent thuộc miền ngân hàng, dự án có lớp `out_of_scope`
 
 Dữ liệu của dự án được xây dựng từ tập **CLINC150**, sau khi chọn ra 20 intent được sử dụng trong phạm vi nghiên cứu và chuẩn bị dữ liệu tiếng Việt tương ứng.
 
-- **Dataset gốc CLINC150:** [Thay bằng đường dẫn nguồn CLINC150 mà nhóm sử dụng](https://github.com/clinc/oos-eval/)
+- **Dataset gốc CLINC150:(https://github.com/clinc/oos-eval/)
 - **Dữ liệu tiếng Anh đã chọn:** `subset20_en.json`
 - **Dữ liệu tiếng Việt đã dịch/bản địa hoá:** `subset20_vi.json`
 
-> **Lưu ý:** Hãy thay `PASTE_CLINC150_DATASET_URL_HERE` bằng đường dẫn nguồn CLINC150 thực tế mà nhóm sử dụng. Dataset gốc không được lưu trực tiếp trong repository nhằm giữ repository gọn nhẹ. Vui lòng kiểm tra giấy phép và điều kiện sử dụng của nguồn dữ liệu gốc.
 
 ## 4. Cấu trúc thư mục
 
@@ -36,8 +35,6 @@ project/
 ├── requirements.txt             # Các thư viện cần thiết 
 └── README.md
 ```
-
-Các file trong `batch_vi/` chỉ là dữ liệu trung gian được lưu trong quá trình dịch/copy từng đợt. Nếu dữ liệu cuối cùng đã được tổng hợp đầy đủ trong `subset20_vi.json`, nhóm không cần đưa các file batch này lên GitHub.
 
 ## 5. Mô tả dữ liệu
 
@@ -106,4 +103,4 @@ print(data[0])
 
 ## 11. Ghi chú
 
-README này mô tả cấu trúc dự kiến của repository. Trước khi công bố dự án, hãy cập nhật tên thư mục, tên trường JSON, số lượng mẫu và đường dẫn dataset để khớp với các tệp thực tế.
+README này mô tả cấu trúc dự kiến của repository.
