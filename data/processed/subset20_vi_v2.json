@@ -9,7 +9,7 @@
    "account_blocked"
   ],
   [
-   "vui lòng kiểm tra số dư hiện tại trên hóa đơn con edison",
+   "vui lòng kiểm tra số dư hiện tại trên hóa đơn evn",
    "bill_balance"
   ],
   [
@@ -77,7 +77,7 @@
    "report_lost_card"
   ],
   [
-   "thẻ bank of the west của mình có mất phí giao dịch quốc tế không",
+   "thẻ pvcombank của mình có mất phí giao dịch quốc tế không",
    "international_fees"
   ],
   [
@@ -85,7 +85,7 @@
    "transfer"
   ],
   [
-   "tài khoản charles schwab của mình có đủ tiền mua gậy bóng chày mới không",
+   "tài khoản ssi của mình có đủ tiền mua gậy bóng chày mới không",
    "balance"
   ],
   [
@@ -137,7 +137,7 @@
    "transactions"
   ],
   [
-   "tìm số tiền tối thiểu cần thanh toán cho hóa đơn năng lượng peco trong tháng 2",
+   "tìm số tiền tối thiểu cần thanh toán cho hóa đơn năng lượng evn trong tháng 2",
    "min_payment"
   ],
   [
@@ -169,7 +169,7 @@
    "pay_bill"
   ],
   [
-   "cho mình xem các giao dịch tại tacobell",
+   "cho mình xem các giao dịch tại kfc",
    "transactions"
   ],
   [
@@ -201,7 +201,7 @@
    "expiration_date"
   ],
   [
-   "regions sẽ áp dụng lãi suất bao nhiêu cho tôi",
+   "vietbank sẽ áp dụng lãi suất bao nhiêu cho tôi",
    "interest_rate"
   ],
   [
@@ -269,7 +269,7 @@
    "min_payment"
   ],
   [
-   "tài khoản hiển thị một khoản thanh toán venmo mà mình không thực hiện",
+   "tài khoản hiển thị một khoản thanh toán momo mà mình không thực hiện",
    "report_fraud"
   ],
   [
@@ -317,7 +317,7 @@
    "report_lost_card"
   ],
   [
-   "lãi suất tài khoản thanh toán charles schwab của tôi là bao nhiêu",
+   "lãi suất tài khoản thanh toán ssi của tôi là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -421,7 +421,7 @@
    "card_declined"
   ],
   [
-   "số tiền thanh toán tối thiểu cho hóa đơn năng lượng xcel là bao nhiêu",
+   "số tiền thanh toán tối thiểu cho hóa đơn năng lượng evn là bao nhiêu",
    "min_payment"
   ],
   [
@@ -497,7 +497,7 @@
    "min_payment"
   ],
   [
-   "chuyển 50 triệu giữa tài khoản bidv và rabobank",
+   "chuyển 50 triệu giữa tài khoản bidv và baoviet bank",
    "transfer"
   ],
   [
@@ -509,7 +509,7 @@
    "freeze_account"
   ],
   [
-   "làm sao để biết lãi suất của tài khoản signature",
+   "làm sao để biết lãi suất của tài khoản abbank",
    "interest_rate"
   ],
   [
@@ -549,7 +549,7 @@
    "balance"
   ],
   [
-   "vui lòng cho tôi biết số tiền cần thanh toán trên hóa đơn verizon",
+   "vui lòng cho tôi biết số tiền cần thanh toán trên hóa đơn viettel",
    "bill_balance"
   ],
   [
@@ -585,7 +585,7 @@
    "pay_bill"
   ],
   [
-   "dùng thẻ aaa ở canada có bị tính phí giao dịch không",
+   "dùng thẻ vietnam airlines ở canada có bị tính phí giao dịch không",
    "international_fees"
   ],
   [
@@ -601,7 +601,7 @@
    "min_payment"
   ],
   [
-   "chuyển 2 triệu giữa tài khoản bank of the west và vietcombank",
+   "chuyển 2 triệu giữa tài khoản pvcombank và vietcombank",
    "transfer"
   ],
   [
@@ -653,7 +653,7 @@
    "transfer"
   ],
   [
-   "vui lòng chặn ngay tài khoản presidential bank của mình",
+   "vui lòng chặn ngay tài khoản saigonbank của mình",
    "freeze_account"
   ],
   [
@@ -669,7 +669,7 @@
    "min_payment"
   ],
   [
-   "làm sao để tìm lãi suất tài khoản red river của tôi",
+   "làm sao để tìm lãi suất tài khoản pvcombank của tôi",
    "interest_rate"
   ],
   [
@@ -681,7 +681,7 @@
    "new_card"
   ],
   [
-   "mình cần báo cáo một giao dịch gian lận từ postmates trong tài khoản của mình",
+   "mình cần báo cáo một giao dịch gian lận từ shopeefood trong tài khoản của mình",
    "report_fraud"
   ],
   [
@@ -789,7 +789,7 @@
    "interest_rate"
   ],
   [
-   "lãi suất tôi nhận được từ onewest bank là bao nhiêu",
+   "lãi suất tôi nhận được từ kienlongbank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -813,11 +813,11 @@
    "credit_score"
   ],
   [
-   "tổng số tiền tôi còn nợ sony và verizon là bao nhiêu",
+   "tổng số tiền tôi còn nợ sony và viettel là bao nhiêu",
    "bill_balance"
   ],
   [
-   "có một khoản trừ tiền đáng ngờ từ comcast trong tài khoản của mình",
+   "có một khoản trừ tiền đáng ngờ từ fpt trong tài khoản của mình",
    "report_fraud"
   ],
   [
@@ -829,7 +829,7 @@
    "min_payment"
   ],
   [
-   "american express có tính phí giao dịch khi dùng thẻ ở iceland không",
+   "vib có tính phí giao dịch khi dùng thẻ ở iceland không",
    "international_fees"
   ],
   [
@@ -961,7 +961,7 @@
    "pin_change"
   ],
   [
-   "hóa đơn t-mobile có thể thanh toán ít nhất bao nhiêu",
+   "hóa đơn mobifone có thể thanh toán ít nhất bao nhiêu",
    "min_payment"
   ],
   [
@@ -969,7 +969,7 @@
    "account_blocked"
   ],
   [
-   "làm sao để kiểm tra lãi suất tài khoản columbia của tôi",
+   "làm sao để kiểm tra lãi suất tài khoản kienlongbank của tôi",
    "interest_rate"
   ],
   [
@@ -981,7 +981,7 @@
    "min_payment"
   ],
   [
-   "cho tôi biết tổng hóa đơn verizon và comcast là bao nhiêu",
+   "cho tôi biết tổng hóa đơn viettel và fpt là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -1037,7 +1037,7 @@
    "interest_rate"
   ],
   [
-   "vui lòng cho mình biết mã pin tài khoản synovus",
+   "vui lòng cho mình biết mã pin tài khoản saigonbank",
    "pin_change"
   ],
   [
@@ -1065,7 +1065,7 @@
    "international_fees"
   ],
   [
-   "tôi cần làm gì để tra cứu lãi suất tài khoản 1st republic",
+   "tôi cần làm gì để tra cứu lãi suất tài khoản baoviet bank",
    "interest_rate"
   ],
   [
@@ -1269,7 +1269,7 @@
    "report_lost_card"
   ],
   [
-   "đổi mã pin tài khoản banner thành 1234",
+   "đổi mã pin tài khoản saigonbank thành 1234",
    "pin_change"
   ],
   [
@@ -1441,7 +1441,7 @@
    "balance"
   ],
   [
-   "mình muốn xem danh sách giao dịch tại bank of hawaii",
+   "mình muốn xem danh sách giao dịch tại vietbank",
    "transactions"
   ],
   [
@@ -1485,7 +1485,7 @@
    "spending_history"
   ],
   [
-   "mình cần chuyển 200k từ vietcombank sang washington mutual",
+   "mình cần chuyển 200k từ vietcombank sang kienlongbank",
    "transfer"
   ],
   [
@@ -1505,7 +1505,7 @@
    "international_fees"
   ],
   [
-   "lãi suất của tôi tại illinois national là bao nhiêu",
+   "lãi suất của tôi tại pvcombank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -1821,7 +1821,7 @@
    "report_fraud"
   ],
   [
-   "hóa đơn xfinity tháng này hết bao nhiêu",
+   "hóa đơn fpt tháng này hết bao nhiêu",
    "bill_balance"
   ],
   [
@@ -1833,7 +1833,7 @@
    "report_lost_card"
   ],
   [
-   "đổi mã pin tài khoản redwood credit union thành 1234",
+   "đổi mã pin tài khoản abbank quỹ tín dụng nhân dân thành 1234",
    "pin_change"
   ],
   [
@@ -1881,7 +1881,7 @@
    "spending_history"
   ],
   [
-   "tổng cộng tôi cần thanh toán bao nhiêu cho cox và at&t",
+   "tổng cộng tôi cần thanh toán bao nhiêu cho vnpt và mobifone",
    "bill_balance"
   ],
   [
@@ -1997,7 +1997,7 @@
    "new_card"
   ],
   [
-   "số tiền thanh toán tối thiểu trên thẻ eddie bauer là bao nhiêu",
+   "số tiền thanh toán tối thiểu trên thẻ canifa là bao nhiêu",
    "min_payment"
   ],
   [
@@ -2033,7 +2033,7 @@
    "credit_limit"
   ],
   [
-   "bạn cho mình biết tại sao tài khoản mutualone của mình bị tạm khóa được không",
+   "bạn cho mình biết tại sao tài khoản kienlongbank của mình bị tạm khóa được không",
    "account_blocked"
   ],
   [
@@ -2077,7 +2077,7 @@
    "transfer"
   ],
   [
-   "mình muốn thanh toán hóa đơn coned",
+   "mình muốn thanh toán hóa đơn evn",
    "pay_bill"
   ],
   [
@@ -2153,7 +2153,7 @@
    "bill_balance"
   ],
   [
-   "bạn có thể cho tôi biết hóa đơn directv là bao nhiêu không",
+   "bạn có thể cho tôi biết hóa đơn k+ là bao nhiêu không",
    "bill_balance"
   ],
   [
@@ -2185,7 +2185,7 @@
    "account_blocked"
   ],
   [
-   "chuyển 8 triệu giữa tài khoản city bank và mb bank",
+   "chuyển 8 triệu giữa tài khoản hdbank và mb bank",
    "transfer"
   ],
   [
@@ -2225,7 +2225,7 @@
    "bill_balance"
   ],
   [
-   "tôi phải thanh toán hóa đơn nordstrom vào ngày nào",
+   "tôi phải thanh toán hóa đơn vincom vào ngày nào",
    "bill_due"
   ],
   [
@@ -2241,7 +2241,7 @@
    "new_card"
   ],
   [
-   "tại sao tài khoản charles schwab của mình bị tạm khóa",
+   "tại sao tài khoản ssi của mình bị tạm khóa",
    "account_blocked"
   ],
   [
@@ -2313,7 +2313,7 @@
    "spending_history"
   ],
   [
-   "hóa đơn at&t của tôi sắp đến hạn chưa",
+   "hóa đơn mobifone của tôi sắp đến hạn chưa",
    "bill_due"
   ],
   [
@@ -2417,11 +2417,11 @@
    "card_declined"
   ],
   [
-   "hóa đơn dte và tiền nước của tôi hết bao nhiêu",
+   "hóa đơn evn và tiền nước của tôi hết bao nhiêu",
    "bill_balance"
   ],
   [
-   "hóa đơn at&t của tôi đến hạn vào ngày nào",
+   "hóa đơn mobifone của tôi đến hạn vào ngày nào",
    "bill_due"
   ],
   [
@@ -2761,7 +2761,7 @@
    "account_blocked"
   ],
   [
-   "để mình kiểm tra giao dịch trên thẻ first bank",
+   "để mình kiểm tra giao dịch trên thẻ msb",
    "transactions"
   ],
   [
@@ -2801,7 +2801,7 @@
    "credit_score"
   ],
   [
-   "tổng số tiền cần thanh toán cho hóa đơn gas pgw là bao nhiêu",
+   "tổng số tiền cần thanh toán cho hóa đơn gas pv gas là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -2817,11 +2817,11 @@
    "expiration_date"
   ],
   [
-   "hóa đơn xfinity và dte của tôi hết bao nhiêu",
+   "hóa đơn fpt và evn của tôi hết bao nhiêu",
    "bill_balance"
   ],
   [
-   "vui lòng cho tôi biết tổng hóa đơn comcast và vinaphone",
+   "vui lòng cho tôi biết tổng hóa đơn fpt và vinaphone",
    "bill_balance"
   ],
   [
@@ -2865,7 +2865,7 @@
    "international_fees"
   ],
   [
-   "em muốn chặn ngay tài khoản charles schwab",
+   "em muốn chặn ngay tài khoản ssi",
    "freeze_account"
   ],
   [
@@ -3025,7 +3025,7 @@
    "transactions"
   ],
   [
-   "thẻ national có mất phí giao dịch quốc tế không và phí là bao nhiêu",
+   "thẻ seabank có mất phí giao dịch quốc tế không và phí là bao nhiêu",
    "international_fees"
   ],
   [
@@ -3209,7 +3209,7 @@
    "credit_score"
   ],
   [
-   "mã pin tài khoản fidelity của mình là gì",
+   "mã pin tài khoản hsc của mình là gì",
    "pin_change"
   ],
   [
@@ -3225,7 +3225,7 @@
    "pay_bill"
   ],
   [
-   "tôi cần vào đâu để xem lãi suất tài khoản brighton",
+   "tôi cần vào đâu để xem lãi suất tài khoản vietbank",
    "interest_rate"
   ],
   [
@@ -3285,7 +3285,7 @@
    "pay_bill"
   ],
   [
-   "mình muốn đăng ký thẻ alphabank",
+   "mình muốn đăng ký thẻ bac a bank",
    "new_card"
   ],
   [
@@ -3361,7 +3361,7 @@
    "transfer"
   ],
   [
-   "tài khoản của mình có một giao dịch gian lận từ red robin",
+   "tài khoản của mình có một giao dịch gian lận từ kfc",
    "report_fraud"
   ],
   [
@@ -3477,7 +3477,7 @@
    "expiration_date"
   ],
   [
-   "làm sao để tìm lãi suất tài khoản alliance của tôi",
+   "làm sao để tìm lãi suất tài khoản saigonbank của tôi",
    "interest_rate"
   ],
   [
@@ -3487,10 +3487,6 @@
   [
    "cho tôi biết tháng hết hạn của thẻ",
    "expiration_date"
-  ],
-  [
-   "làm sao để kiểm tra lãi suất tài khoản umpqua của tôi",
-   "interest_rate"
   ],
   [
    "tôi muốn biết số tiền thanh toán tối thiểu cho hóa đơn tiền nước",
@@ -3525,7 +3521,7 @@
    "bill_balance"
   ],
   [
-   "bạn giúp mình xử lý giao dịch gian lận từ verizon trên tài khoản được không",
+   "bạn giúp mình xử lý giao dịch gian lận từ viettel trên tài khoản được không",
    "report_fraud"
   ],
   [
@@ -3569,7 +3565,7 @@
    "bill_balance"
   ],
   [
-   "lãi suất thẻ tín dụng barclay arrival của tôi là bao nhiêu",
+   "lãi suất thẻ tín dụng tpbank arrival của tôi là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -3677,7 +3673,7 @@
    "freeze_account"
   ],
   [
-   "mình quên mã pin tài khoản northfield rồi",
+   "mình quên mã pin tài khoản saigonbank rồi",
    "pin_change"
   ],
   [
@@ -3697,11 +3693,11 @@
    "card_declined"
   ],
   [
-   "tài khoản bank of hawaii của mình có đủ tiền đi nghỉ dưỡng không",
+   "tài khoản vietbank của mình có đủ tiền đi nghỉ dưỡng không",
    "balance"
   ],
   [
-   "điểm fico của mình là bao nhiêu",
+   "điểm cic của mình là bao nhiêu",
    "credit_score"
   ],
   [
@@ -3721,7 +3717,7 @@
    "account_blocked"
   ],
   [
-   "thẻ rainbow có mất phí giao dịch quốc tế không",
+   "thẻ baoviet bank có mất phí giao dịch quốc tế không",
    "international_fees"
   ],
   [
@@ -3817,11 +3813,11 @@
    "interest_rate"
   ],
   [
-   "còn bao nhiêu ngày nữa đến hạn thanh toán hóa đơn verizon",
+   "còn bao nhiêu ngày nữa đến hạn thanh toán hóa đơn viettel",
    "bill_due"
   ],
   [
-   "vui lòng đặt mã pin tài khoản zion bank thành 3232",
+   "vui lòng đặt mã pin tài khoản pvcombank thành 3232",
    "pin_change"
   ],
   [
@@ -3901,11 +3897,11 @@
    "expiration_date"
   ],
   [
-   "bạn đổi mã pin tài khoản 1st national thành 4892 được không",
+   "bạn đổi mã pin tài khoản msb thành 4892 được không",
    "pin_change"
   ],
   [
-   "hóa đơn internet xfinity của tôi đến hạn vào ngày nào trong tháng 2",
+   "hóa đơn internet fpt của tôi đến hạn vào ngày nào trong tháng 2",
    "bill_due"
   ],
   [
@@ -3925,7 +3921,7 @@
    "balance"
   ],
   [
-   "cho mình biết dùng thẻ royal ở châu âu có mất phí giao dịch không",
+   "cho mình biết dùng thẻ vietbank ở châu âu có mất phí giao dịch không",
    "international_fees"
   ],
   [
@@ -4073,7 +4069,7 @@
    "report_lost_card"
   ],
   [
-   "lãi suất tôi nhận được từ city national sẽ là bao nhiêu",
+   "lãi suất tôi nhận được từ bac a bank sẽ là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -4081,7 +4077,7 @@
    "international_fees"
   ],
   [
-   "vui lòng cho tôi biết tôi nợ vinaphone bao nhiêu và nợ hsn bao nhiêu",
+   "vui lòng cho tôi biết tôi nợ vinaphone bao nhiêu và nợ vtv mall bao nhiêu",
    "bill_balance"
   ],
   [
@@ -4117,7 +4113,7 @@
    "account_blocked"
   ],
   [
-   "thanh toán hóa đơn tiền điện bằng tài khoản park bank của mình",
+   "thanh toán hóa đơn tiền điện bằng tài khoản kienlongbank của mình",
    "pay_bill"
   ],
   [
@@ -4161,7 +4157,7 @@
    "account_blocked"
   ],
   [
-   "tháng này đến giờ mình đã chi tổng cộng bao nhiêu tiền trên cash app",
+   "tháng này đến giờ mình đã chi tổng cộng bao nhiêu tiền trên momo",
    "spending_history"
   ],
   [
@@ -4185,7 +4181,7 @@
    "account_blocked"
   ],
   [
-   "tại sao nordstrom không chấp nhận thẻ của tôi",
+   "tại sao vincom không chấp nhận thẻ của tôi",
    "card_declined"
   ],
   [
@@ -4265,10 +4261,6 @@
    "new_card"
   ],
   [
-   "thẻ discovery của tôi hết hạn khi nào",
-   "expiration_date"
-  ],
-  [
    "có những khoản thanh toán trên thẻ vib mà mình không thực hiện",
    "report_fraud"
   ],
@@ -4313,7 +4305,7 @@
    "account_blocked"
   ],
   [
-   "lãi suất tôi nhận được từ citigroup là bao nhiêu",
+   "lãi suất tôi nhận được từ hdbank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -4329,7 +4321,7 @@
    "bill_balance"
   ],
   [
-   "tôi bị mất thẻ silicon valley",
+   "tôi bị mất thẻ pvcombank",
    "report_lost_card"
   ],
   [
@@ -4393,7 +4385,7 @@
    "credit_limit"
   ],
   [
-   "hóa đơn dte tháng này của tôi là bao nhiêu",
+   "hóa đơn evn tháng này của tôi là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -4409,7 +4401,7 @@
    "interest_rate"
   ],
   [
-   "phí giao dịch quốc tế của thẻ industrial bank là bao nhiêu",
+   "phí giao dịch quốc tế của thẻ bac a bank là bao nhiêu",
    "international_fees"
   ],
   [
@@ -4441,7 +4433,7 @@
    "spending_history"
   ],
   [
-   "chặn ngay tài khoản mutualone của mình",
+   "chặn ngay tài khoản kienlongbank của mình",
    "freeze_account"
   ],
   [
@@ -4453,7 +4445,7 @@
    "transactions"
   ],
   [
-   "hóa đơn dte cộng với hóa đơn tiền điện của tôi hết bao nhiêu",
+   "hóa đơn evn cộng với hóa đơn tiền điện của tôi hết bao nhiêu",
    "bill_balance"
   ],
   [
@@ -4513,7 +4505,7 @@
    "spending_history"
   ],
   [
-   "dùng tài khoản park bank của mình để thanh toán hóa đơn tiền điện",
+   "dùng tài khoản kienlongbank của mình để thanh toán hóa đơn tiền điện",
    "pay_bill"
   ],
   [
@@ -4565,7 +4557,7 @@
    "pin_change"
   ],
   [
-   "bạn có thể cho tôi biết lãi suất tại first federal không",
+   "bạn có thể cho tôi biết lãi suất tại msb không",
    "interest_rate"
   ],
   [
@@ -4641,7 +4633,7 @@
    "bill_due"
   ],
   [
-   "dùng thẻ boston private ở scotland có mất phí giao dịch không",
+   "dùng thẻ saigonbank ở scotland có mất phí giao dịch không",
    "international_fees"
   ],
   [
@@ -4661,7 +4653,7 @@
    "min_payment"
   ],
   [
-   "hóa đơn xfinity có thể thanh toán ít nhất bao nhiêu",
+   "hóa đơn fpt có thể thanh toán ít nhất bao nhiêu",
    "min_payment"
   ],
   [
@@ -4693,7 +4685,7 @@
    "card_declined"
   ],
   [
-   "cho mình xem các khoản phí giao dịch quốc tế của thẻ zenith",
+   "cho mình xem các khoản phí giao dịch quốc tế của thẻ baoviet bank",
    "international_fees"
   ],
   [
@@ -4709,7 +4701,7 @@
    "credit_score"
   ],
   [
-   "mình quên mã pin của tài khoản 401k rồi",
+   "mình quên mã pin của tài khoản quỹ hưu trí rồi",
    "pin_change"
   ],
   [
@@ -4721,7 +4713,7 @@
    "report_lost_card"
   ],
   [
-   "bạn có thể đăng ký thẻ idaho independent giúp mình không",
+   "bạn có thể đăng ký thẻ vietbank giúp mình không",
    "new_card"
   ],
   [
@@ -4761,7 +4753,7 @@
    "report_fraud"
   ],
   [
-   "đổi mã pin tài khoản first republic thành 1234",
+   "đổi mã pin tài khoản msb thành 1234",
    "pin_change"
   ],
   [
@@ -4797,7 +4789,7 @@
    "account_blocked"
   ],
   [
-   "hạn mức chi tiêu của thẻ chase sapphire là bao nhiêu",
+   "hạn mức chi tiêu của thẻ bidv là bao nhiêu",
    "credit_limit"
   ],
   [
@@ -4833,7 +4825,7 @@
    "expiration_date"
   ],
   [
-   "hạn cuối để thanh toán hóa đơn directv trong tháng này là ngày nào",
+   "hạn cuối để thanh toán hóa đơn k+ trong tháng này là ngày nào",
    "bill_due"
   ],
   [
@@ -4857,7 +4849,7 @@
    "spending_history"
   ],
   [
-   "hóa đơn comcast của tôi hết bao nhiêu",
+   "hóa đơn fpt của tôi hết bao nhiêu",
    "bill_balance"
   ],
   [
@@ -4993,7 +4985,7 @@
    "international_fees"
   ],
   [
-   "mình muốn báo cáo khoản thanh toán gian lận từ people's natural gas",
+   "mình muốn báo cáo khoản thanh toán gian lận từ pv gas",
    "report_fraud"
   ],
   [
@@ -5073,7 +5065,7 @@
    "transfer"
   ],
   [
-   "tại sao tài khoản 401k của mình bị tạm khóa",
+   "tại sao tài khoản quỹ hưu trí của mình bị tạm khóa",
    "account_blocked"
   ],
   [
@@ -5097,7 +5089,7 @@
    "freeze_account"
   ],
   [
-   "lãi suất thẻ tín dụng chase slate của tôi là bao nhiêu",
+   "lãi suất thẻ tín dụng bidv của tôi là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -5125,11 +5117,11 @@
    "transactions"
   ],
   [
-   "mình muốn mua áo mới, tiền trong tài khoản td ameritrade có đủ không",
+   "mình muốn mua áo mới, tiền trong tài khoản vndirect có đủ không",
    "balance"
   ],
   [
-   "chỉ tôi cách tìm lãi suất tài khoản jonah",
+   "chỉ tôi cách tìm lãi suất tài khoản bac a bank",
    "interest_rate"
   ],
   [
@@ -5265,7 +5257,7 @@
    "bill_due"
   ],
   [
-   "mình không nhớ mã pin tài khoản city first",
+   "mình không nhớ mã pin tài khoản pvcombank",
    "pin_change"
   ],
   [
@@ -5281,7 +5273,7 @@
    "transactions"
   ],
   [
-   "khi nào hóa đơn at&t của tôi đến hạn",
+   "khi nào hóa đơn mobifone của tôi đến hạn",
    "bill_due"
   ],
   [
@@ -5293,7 +5285,7 @@
    "transactions"
   ],
   [
-   "thẻ american saving bank của tôi bị mất cắp",
+   "thẻ abbank của tôi bị mất cắp",
    "report_lost_card"
   ],
   [
@@ -5345,7 +5337,7 @@
    "transactions"
   ],
   [
-   "lãi suất tài khoản scotiabank là bao nhiêu",
+   "lãi suất tài khoản bac a bank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -5389,7 +5381,7 @@
    "transfer"
   ],
   [
-   "thanh toán hóa đơn thẻ american express của mình ngay bây giờ",
+   "thanh toán hóa đơn thẻ vib của mình ngay bây giờ",
    "pay_bill"
   ],
   [
@@ -5485,7 +5477,7 @@
    "international_fees"
   ],
   [
-   "tôi cần biết tổng hóa đơn verizon phải thanh toán trong tháng này",
+   "tôi cần biết tổng hóa đơn viettel phải thanh toán trong tháng này",
    "bill_balance"
   ],
   [
@@ -5501,7 +5493,7 @@
    "bill_due"
   ],
   [
-   "tại sao tài khoản edward jones của mình bị tạm khóa",
+   "tại sao tài khoản mirae asset của mình bị tạm khóa",
    "account_blocked"
   ],
   [
@@ -5573,7 +5565,7 @@
    "transactions"
   ],
   [
-   "hạn mức tín dụng của thẻ bank of the west là bao nhiêu",
+   "hạn mức tín dụng của thẻ pvcombank là bao nhiêu",
    "credit_limit"
   ],
   [
@@ -5597,7 +5589,7 @@
    "pin_change"
   ],
   [
-   "đăng ký thẻ kbc giúp mình",
+   "đăng ký thẻ pvcombank giúp mình",
    "new_card"
   ],
   [
@@ -5665,7 +5657,7 @@
    "interest_rate"
   ],
   [
-   "tài khoản chime của mình có đủ tiền đưa ashley đi xem phim vào thứ ba không",
+   "tài khoản momo của mình có đủ tiền đưa ashley đi xem phim vào thứ ba không",
    "balance"
   ],
   [
@@ -5749,7 +5741,7 @@
    "expiration_date"
   ],
   [
-   "khi ở tây ban nha, dùng thẻ cmaden có mất phí giao dịch không",
+   "khi ở tây ban nha, dùng thẻ pvcombank có mất phí giao dịch không",
    "international_fees"
   ],
   [
@@ -5849,7 +5841,7 @@
    "min_payment"
   ],
   [
-   "thanh toán số tiền tối thiểu cho hóa đơn m and t",
+   "thanh toán số tiền tối thiểu cho hóa đơn kienlongbank",
    "min_payment"
   ],
   [
@@ -5941,7 +5933,7 @@
    "pin_change"
   ],
   [
-   "khi nào tôi cần thanh toán hóa đơn at&t",
+   "khi nào tôi cần thanh toán hóa đơn mobifone",
    "bill_due"
   ],
   [
@@ -5973,7 +5965,7 @@
    "expiration_date"
   ],
   [
-   "hóa đơn dte của tôi hết bao nhiêu",
+   "hóa đơn evn của tôi hết bao nhiêu",
    "bill_balance"
   ],
   [
@@ -6013,7 +6005,7 @@
    "report_lost_card"
   ],
   [
-   "vui lòng cho tôi biết số tiền cần thanh toán cho hóa đơn directv",
+   "vui lòng cho tôi biết số tiền cần thanh toán cho hóa đơn k+",
    "bill_balance"
   ],
   [
@@ -6021,7 +6013,7 @@
    "pay_bill"
   ],
   [
-   "chuyển hơn 2 triệu từ huntington vào tài khoản tiết kiệm",
+   "chuyển hơn 2 triệu từ baoviet bank vào tài khoản tiết kiệm",
    "transfer"
   ],
   [
@@ -6033,7 +6025,7 @@
    "bill_due"
   ],
   [
-   "chào bạn, bạn có thể cho tôi biết tiền lãi từ tài khoản ira không",
+   "chào bạn, bạn có thể cho tôi biết tiền lãi từ tài khoản quỹ hưu trí không",
    "interest_rate"
   ],
   [
@@ -6165,7 +6157,7 @@
    "freeze_account"
   ],
   [
-   "hóa đơn comcast tháng này của tôi là bao nhiêu",
+   "hóa đơn fpt tháng này của tôi là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -6229,7 +6221,7 @@
    "balance"
   ],
   [
-   "bạn có thể giúp tôi tìm lãi suất tài khoản sba không",
+   "bạn có thể giúp tôi tìm lãi suất tài khoản seabank không",
    "interest_rate"
   ],
   [
@@ -6337,7 +6329,7 @@
    "credit_score"
   ],
   [
-   "mình nghĩ khoản thanh toán uber trong tài khoản là giao dịch gian lận",
+   "mình nghĩ khoản thanh toán grab trong tài khoản là giao dịch gian lận",
    "report_fraud"
   ],
   [
@@ -6429,7 +6421,7 @@
    "report_lost_card"
   ],
   [
-   "mình khá chắc khoản thanh toán từ sam's club là gian lận",
+   "mình khá chắc khoản thanh toán từ mm mega market là gian lận",
    "report_fraud"
   ],
   [
@@ -6473,7 +6465,7 @@
    "min_payment"
   ],
   [
-   "hạn mức tín dụng của thẻ old navy là bao nhiêu",
+   "hạn mức tín dụng của thẻ uniqlo là bao nhiêu",
    "credit_limit"
   ],
   [
@@ -6701,7 +6693,7 @@
    "freeze_account"
   ],
   [
-   "thanh toán hóa đơn tiền nước bằng tài khoản charles schwab của mình",
+   "thanh toán hóa đơn tiền nước bằng tài khoản ssi của mình",
    "pay_bill"
   ],
   [
@@ -6773,7 +6765,7 @@
    "report_fraud"
   ],
   [
-   "số tiền trên hóa đơn comcast của tôi là bao nhiêu",
+   "số tiền trên hóa đơn fpt của tôi là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -6865,11 +6857,11 @@
    "international_fees"
   ],
   [
-   "vui lòng chặn ngay tài khoản td ameritrade của mình",
+   "vui lòng chặn ngay tài khoản vndirect của mình",
    "freeze_account"
   ],
   [
-   "hóa đơn xfinity của tôi đến hạn khi nào",
+   "hóa đơn fpt của tôi đến hạn khi nào",
    "bill_due"
   ],
   [
@@ -7017,7 +7009,7 @@
    "min_payment"
   ],
   [
-   "chặn ngay tài khoản amalgamated bank của mình",
+   "chặn ngay tài khoản baoviet bank của mình",
    "freeze_account"
   ],
   [
@@ -7037,7 +7029,7 @@
    "pay_bill"
   ],
   [
-   "tài khoản ngân hàng first hawaiian của mình có đủ tiền đi nghỉ dưỡng không",
+   "tài khoản ngân hàng nam a bank của mình có đủ tiền đi nghỉ dưỡng không",
    "balance"
   ],
   [
@@ -7057,7 +7049,7 @@
    "report_fraud"
   ],
   [
-   "tôi cần trợ giúp tìm lãi suất hàng năm của khoản vay aspire",
+   "tôi cần trợ giúp tìm lãi suất hàng năm của khoản vay kienlongbank",
    "interest_rate"
   ],
   [
@@ -7121,7 +7113,7 @@
    "pin_change"
   ],
   [
-   "thẻ hy-vee của tôi cần được gia hạn vào ngày nào",
+   "thẻ bách hóa xanh của tôi cần được gia hạn vào ngày nào",
    "expiration_date"
   ],
   [
@@ -7201,7 +7193,7 @@
    "report_fraud"
   ],
   [
-   "tại sao tài khoản american saving bank của mình bị tạm khóa",
+   "tại sao tài khoản abbank của mình bị tạm khóa",
    "account_blocked"
   ],
   [
@@ -7237,7 +7229,7 @@
    "min_payment"
   ],
   [
-   "tháng trước mình đã chi bao nhiêu tiền bằng thẻ visa fidelity",
+   "tháng trước mình đã chi bao nhiêu tiền bằng thẻ visa hsc",
    "transactions"
   ],
   [
@@ -7289,7 +7281,7 @@
    "balance"
   ],
   [
-   "tôi cần biết ngày đến hạn mới của hóa đơn gas pgw",
+   "tôi cần biết ngày đến hạn mới của hóa đơn gas pv gas",
    "bill_due"
   ],
   [
@@ -7321,7 +7313,7 @@
    "bill_due"
   ],
   [
-   "hạn mức tín dụng của thẻ childrens place là bao nhiêu",
+   "hạn mức tín dụng của thẻ con cưng là bao nhiêu",
    "credit_limit"
   ],
   [
@@ -7339,7 +7331,7 @@
  ],
  "val": [
   [
-   "ngân hàng nhà nước Việt Nam đang áp dụng lãi suất bao nhiêu cho tài khoản của tôi",
+   "ngân hàng nhà nước việt nam đang áp dụng lãi suất bao nhiêu cho tài khoản của tôi",
    "interest_rate"
   ],
   [
@@ -7351,7 +7343,7 @@
    "balance"
   ],
   [
-   "thẻ của tôi bị từ chối ở shakey's, không biết tại sao",
+   "thẻ của tôi bị từ chối ở the pizza company, không biết tại sao",
    "card_declined"
   ],
   [
@@ -7367,7 +7359,7 @@
    "bill_due"
   ],
   [
-   "tài khoản pnc của tôi có hơn 2 triệu không",
+   "tài khoản seabank của tôi có hơn 2 triệu không",
    "balance"
   ],
   [
@@ -7391,7 +7383,7 @@
    "transfer"
   ],
   [
-   "hóa đơn kaiser của tôi đến hạn khi nào",
+   "hóa đơn bảo việt của tôi đến hạn khi nào",
    "bill_due"
   ],
   [
@@ -7471,7 +7463,7 @@
    "pin_change"
   ],
   [
-   "chuyển 2 triệu từ tài khoản thị trường tiền tệ vanguard sang tài khoản tiết kiệm agribank",
+   "chuyển 2 triệu từ tài khoản thị trường tiền tệ vps sang tài khoản tiết kiệm agribank",
    "transfer"
   ],
   [
@@ -7487,7 +7479,7 @@
    "pay_bill"
   ],
   [
-   "tôi có bao nhiêu tiền trong tài khoản pnc",
+   "tôi có bao nhiêu tiền trong tài khoản seabank",
    "balance"
   ],
   [
@@ -7531,7 +7523,7 @@
    "spending_history"
   ],
   [
-   "tôi phải trả bao nhiêu cho hóa đơn thẻ xăng shell",
+   "tôi phải trả bao nhiêu cho hóa đơn thẻ xăng petrolimex",
    "bill_balance"
   ],
   [
@@ -7547,7 +7539,7 @@
    "credit_limit"
   ],
   [
-   "dùng tài khoản tiết kiệm để thanh toán hóa đơn xfinity",
+   "dùng tài khoản tiết kiệm để thanh toán hóa đơn fpt",
    "pay_bill"
   ],
   [
@@ -7607,7 +7599,7 @@
    "spending_history"
   ],
   [
-   "tôi cần thanh toán hóa đơn truyền hình cáp time warner",
+   "tôi cần thanh toán hóa đơn truyền hình cáp vnpt",
    "pay_bill"
   ],
   [
@@ -7635,7 +7627,7 @@
    "bill_balance"
   ],
   [
-   "khi nào tôi cần thanh toán hóa đơn điện dte energy",
+   "khi nào tôi cần thanh toán hóa đơn điện evn",
    "bill_due"
   ],
   [
@@ -7683,7 +7675,7 @@
    "freeze_account"
   ],
   [
-   "tra cứu điểm tín dụng experian của tôi",
+   "tra cứu điểm tín dụng cic của tôi",
    "credit_score"
   ],
   [
@@ -7739,7 +7731,7 @@
    "transactions"
   ],
   [
-   "thanh toán hóa đơn tiền điện cho duke energy",
+   "thanh toán hóa đơn tiền điện cho evn",
    "pay_bill"
   ],
   [
@@ -7755,7 +7747,7 @@
    "expiration_date"
   ],
   [
-   "cho tôi biết tại sao thẻ của tôi bị từ chối ở auto zone",
+   "cho tôi biết tại sao thẻ của tôi bị từ chối ở thaco auto",
    "card_declined"
   ],
   [
@@ -7883,7 +7875,7 @@
    "min_payment"
   ],
   [
-   "chuyển 25 triệu từ msb bank sang tài khoản tiết kiệm bethpage federal credit union",
+   "chuyển 25 triệu từ msb sang tài khoản tiết kiệm quỹ tín dụng nhân dân",
    "transfer"
   ],
   [
@@ -7951,7 +7943,7 @@
    "card_declined"
   ],
   [
-   "walker bank trả lãi cho tài khoản của tôi bao nhiêu",
+   "saigonbank trả lãi cho tài khoản của tôi bao nhiêu",
    "interest_rate"
   ],
   [
@@ -7963,11 +7955,11 @@
    "freeze_account"
   ],
   [
-   "tài khoản tiết kiệm citizen's của tôi được hưởng bao nhiêu tiền lãi",
+   "tài khoản tiết kiệm bac a bank của tôi được hưởng bao nhiêu tiền lãi",
    "interest_rate"
   ],
   [
-   "thẻ eximbank union của tôi có tính phí giao dịch quốc tế không",
+   "thẻ western union của tôi có tính phí giao dịch quốc tế không",
    "international_fees"
   ],
   [
@@ -8015,7 +8007,7 @@
    "report_lost_card"
   ],
   [
-   "hóa đơn kill bill của tôi là bao nhiêu",
+   "hóa đơn vnpt của tôi là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -8023,7 +8015,7 @@
    "pin_change"
   ],
   [
-   "vui lòng khóa ngay tài khoản regions của tôi",
+   "vui lòng khóa ngay tài khoản vietbank của tôi",
    "freeze_account"
   ],
   [
@@ -8039,7 +8031,7 @@
    "interest_rate"
   ],
   [
-   "vui lòng khóa ngay tài khoản ngân hàng nhà nước Việt Nam của tôi",
+   "vui lòng khóa ngay tài khoản ngân hàng nhà nước việt nam của tôi",
    "freeze_account"
   ],
   [
@@ -8051,7 +8043,7 @@
    "account_blocked"
   ],
   [
-   "số tiền thanh toán tối thiểu cho comcast là bao nhiêu",
+   "số tiền thanh toán tối thiểu cho fpt là bao nhiêu",
    "min_payment"
   ],
   [
@@ -8063,11 +8055,11 @@
    "balance"
   ],
   [
-   "tôi cần chuyển 4 triệu từ tài khoản tiết kiệm long island sang tài khoản thanh toán bidv",
+   "tôi cần chuyển 4 triệu từ tài khoản tiết kiệm saigonbank sang tài khoản thanh toán bidv",
    "transfer"
   ],
   [
-   "thẻ ghi nợ của tôi bị từ chối ở ella's và tôi muốn biết lý do",
+   "thẻ ghi nợ của tôi bị từ chối ở phúc long và tôi muốn biết lý do",
    "card_declined"
   ],
   [
@@ -8079,7 +8071,7 @@
    "spending_history"
   ],
   [
-   "vui lòng thanh toán hóa đơn dte từ tài khoản thanh toán của tôi",
+   "vui lòng thanh toán hóa đơn evn từ tài khoản thanh toán của tôi",
    "pay_bill"
   ],
   [
@@ -8107,7 +8099,7 @@
    "international_fees"
   ],
   [
-   "lãi suất tại pnc là bao nhiêu",
+   "lãi suất tại seabank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -8211,7 +8203,7 @@
    "pay_bill"
   ],
   [
-   "chuyển 175 triệu từ tài khoản thị trường tiền tệ bbc sang tài khoản thị trường tiền tệ t rowe price",
+   "chuyển 175 triệu từ tài khoản thị trường tiền tệ vinacapital sang tài khoản thị trường tiền tệ dragon capital",
    "transfer"
   ],
   [
@@ -8235,7 +8227,7 @@
    "bill_balance"
   ],
   [
-   "tôi có thể tìm lãi suất tài khoản voca ở đâu",
+   "tôi có thể tìm lãi suất tài khoản kienlongbank ở đâu",
    "interest_rate"
   ],
   [
@@ -8311,7 +8303,7 @@
    "transfer"
   ],
   [
-   "hiện tại tài khoản của tôi được oak bank áp dụng mức lãi suất bao nhiêu",
+   "hiện tại tài khoản của tôi được abbank áp dụng mức lãi suất bao nhiêu",
    "interest_rate"
   ],
   [
@@ -8367,7 +8359,7 @@
    "credit_limit"
   ],
   [
-   "hóa đơn của spectrum đến hạn vào ngày nào",
+   "hóa đơn của vnpt đến hạn vào ngày nào",
    "bill_due"
   ],
   [
@@ -8427,7 +8419,7 @@
    "account_blocked"
   ],
   [
-   "tài khoản tiết kiệm của tôi có đủ tiền mua đầu phát roku mới không",
+   "tài khoản tiết kiệm của tôi có đủ tiền mua đầu phát fpt play mới không",
    "balance"
   ],
   [
@@ -8443,7 +8435,7 @@
    "bill_balance"
   ],
   [
-   "tài khoản pnc của tôi có bao nhiêu tiền",
+   "tài khoản seabank của tôi có bao nhiêu tiền",
    "balance"
   ],
   [
@@ -8463,7 +8455,7 @@
    "international_fees"
   ],
   [
-   "lãi suất tài khoản scotiabank của tôi là bao nhiêu",
+   "lãi suất tài khoản bac a bank của tôi là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -8483,7 +8475,7 @@
    "expiration_date"
   ],
   [
-   "tôi cần chuyển 50 triệu từ tài khoản tiết kiệm mellon bank sang tài khoản thanh toán bidv",
+   "tôi cần chuyển 50 triệu từ tài khoản tiết kiệm bac a bank sang tài khoản thanh toán bidv",
    "transfer"
   ],
   [
@@ -8495,11 +8487,11 @@
    "new_card"
   ],
   [
-   "khi nào tôi nên thanh toán hóa đơn pg&e",
+   "khi nào tôi nên thanh toán hóa đơn evn",
    "bill_due"
   ],
   [
-   "thẻ mastercard spirit bị lấy mất",
+   "thẻ mastercard vietjet bị lấy mất",
    "report_lost_card"
   ],
   [
@@ -8523,7 +8515,7 @@
    "spending_history"
   ],
   [
-   "tôi có thể tìm lãi suất tài khoản pnc ở đâu",
+   "tôi có thể tìm lãi suất tài khoản seabank ở đâu",
    "interest_rate"
   ],
   [
@@ -8555,7 +8547,7 @@
    "credit_limit"
   ],
   [
-   "tôi còn nợ clay electric bao nhiêu tiền",
+   "tôi còn nợ evn bao nhiêu tiền",
    "bill_balance"
   ],
   [
@@ -8583,15 +8575,11 @@
    "report_fraud"
   ],
   [
-   "tra cứu điểm tín dụng fico của tôi",
-   "credit_score"
-  ],
-  [
-   "số dư trong tài khoản pnc của tôi là bao nhiêu",
+   "số dư trong tài khoản seabank của tôi là bao nhiêu",
    "balance"
   ],
   [
-   "hóa đơn truyền hình cáp xfinity của tôi là bao nhiêu",
+   "hóa đơn truyền hình cáp fpt của tôi là bao nhiêu",
    "bill_balance"
   ],
   [
@@ -8799,7 +8787,7 @@
    "report_lost_card"
   ],
   [
-   "số dư tài khoản pnc của tôi là bao nhiêu",
+   "số dư tài khoản seabank của tôi là bao nhiêu",
    "balance"
   ],
   [
@@ -8811,7 +8799,7 @@
    "card_declined"
   ],
   [
-   "tại sao thẻ của tôi vừa bị từ chối khi tôi định mua xe jeep ở carmax",
+   "tại sao thẻ của tôi vừa bị từ chối khi tôi định mua xe jeep ở oto.com.vn",
    "card_declined"
   ],
   [
@@ -8859,7 +8847,7 @@
    "report_fraud"
   ],
   [
-   "vui lòng liệt kê tất cả giao dịch trên thẻ hy-vee của tôi trong kỳ sao kê này",
+   "vui lòng liệt kê tất cả giao dịch trên thẻ bách hóa xanh của tôi trong kỳ sao kê này",
    "transactions"
   ],
   [
@@ -8905,7 +8893,7 @@
    "credit_limit"
   ],
   [
-   "tài khoản của mình có giao dịch ở foot locker mà mình không thực hiện",
+   "tài khoản của mình có giao dịch ở ananas mà mình không thực hiện",
    "report_fraud"
   ],
   [
@@ -8921,7 +8909,7 @@
    "transactions"
   ],
   [
-   "lãi suất mình đang được hưởng từ citrix là bao nhiêu",
+   "lãi suất mình đang được hưởng từ baoviet bank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -8937,7 +8925,7 @@
    "transactions"
   ],
   [
-   "tài khoản của mình có giao dịch lạ ở guitar center",
+   "tài khoản của mình có giao dịch lạ ở nhạc cụ tiến mạnh",
    "report_fraud"
   ],
   [
@@ -8945,7 +8933,7 @@
    "spending_history"
   ],
   [
-   "chỉ chuyển tiền từ tài khoản pnc sang tài khoản hưu trí",
+   "chỉ chuyển tiền từ tài khoản seabank sang tài khoản hưu trí",
    "transfer"
   ],
   [
@@ -9021,7 +9009,7 @@
    "bill_due"
   ],
   [
-   "lãi suất mình đang được hưởng từ nfcu là bao nhiêu",
+   "lãi suất mình đang được hưởng từ mb bank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -9045,7 +9033,7 @@
    "balance"
   ],
   [
-   "số tiền tối thiểu cần thanh toán cho hóa đơn verizon là bao nhiêu",
+   "số tiền tối thiểu cần thanh toán cho hóa đơn viettel là bao nhiêu",
    "min_payment"
   ],
   [
@@ -9121,7 +9109,7 @@
    "bill_balance"
   ],
   [
-   "hóa đơn trực tuyến của mình có vài khoản mua hàng ở penneys mà mình không thực hiện",
+   "hóa đơn trực tuyến của mình có vài khoản mua hàng ở bách hóa xanh mà mình không thực hiện",
    "report_fraud"
   ],
   [
@@ -9141,7 +9129,7 @@
    "card_declined"
   ],
   [
-   "mình đang ở Aeon mua đồ ăn nhưng thẻ lại không thanh toán được",
+   "mình đang ở aeon mua đồ ăn nhưng thẻ lại không thanh toán được",
    "card_declined"
   ],
   [
@@ -9181,7 +9169,7 @@
    "bill_due"
   ],
   [
-   "chuyển 1 triệu 200 nghìn từ tài khoản thanh toán bank of oklahoma sang tài khoản security bank",
+   "chuyển 1 triệu 200 nghìn từ tài khoản thanh toán vietbank sang tài khoản abbank",
    "transfer"
   ],
   [
@@ -9221,7 +9209,7 @@
    "transactions"
   ],
   [
-   "tài khoản nfcu của mình tích lũy được bao nhiêu tiền lãi",
+   "tài khoản mb bank của mình tích lũy được bao nhiêu tiền lãi",
    "interest_rate"
   ],
   [
@@ -9241,7 +9229,7 @@
    "card_declined"
   ],
   [
-   "vui lòng chuyển 240 nghìn giữa tài khoản cabelas và bank of london",
+   "vui lòng chuyển 240 nghìn giữa tài khoản decathlon và abbank",
    "transfer"
   ],
   [
@@ -9297,11 +9285,11 @@
    "min_payment"
   ],
   [
-   "cho mình biết hạn mức tín dụng của thẻ republic bank",
+   "cho mình biết hạn mức tín dụng của thẻ seabank",
    "credit_limit"
   ],
   [
-   "tính giúp mình hạn mức chi tiêu còn lại trên thẻ natwest",
+   "tính giúp mình hạn mức chi tiêu còn lại trên thẻ seabank",
    "credit_limit"
   ],
   [
@@ -9309,7 +9297,7 @@
    "transactions"
   ],
   [
-   "tạm thời khóa tài khoản american saving bank của mình",
+   "tạm thời khóa tài khoản abbank của mình",
    "freeze_account"
   ],
   [
@@ -9329,7 +9317,7 @@
    "spending_history"
   ],
   [
-   "vui lòng chuyển 2 triệu từ tài khoản thanh toán glacier sang tài khoản farmers",
+   "vui lòng chuyển 2 triệu từ tài khoản thanh toán abbank sang tài khoản baoviet bank",
    "transfer"
   ],
   [
@@ -9397,7 +9385,7 @@
    "pay_bill"
   ],
   [
-   "kiểm tra giúp mình tại sao ngân hàng nhà nước Việt Nam giữ tiền trong tài khoản",
+   "kiểm tra giúp mình tại sao ngân hàng nhà nước việt nam giữ tiền trong tài khoản",
    "account_blocked"
   ],
   [
@@ -9449,7 +9437,7 @@
    "pay_bill"
   ],
   [
-   "tài khoản của mình có giao dịch đáng ngờ từ ebay",
+   "tài khoản của mình có giao dịch đáng ngờ từ lazada",
    "report_fraud"
   ],
   [
@@ -9525,7 +9513,7 @@
    "spending_history"
   ],
   [
-   "số tiền tối thiểu mình phải thanh toán cho hóa đơn verizon là bao nhiêu",
+   "số tiền tối thiểu mình phải thanh toán cho hóa đơn viettel là bao nhiêu",
    "min_payment"
   ],
   [
@@ -9645,7 +9633,7 @@
    "pin_change"
   ],
   [
-   "hóa đơn của mình có khoản mua hàng ở payless shoes nhưng mình không mua gì cả",
+   "hóa đơn của mình có khoản mua hàng ở bitis nhưng mình không mua gì cả",
    "report_fraud"
   ],
   [
@@ -9705,7 +9693,7 @@
    "card_declined"
   ],
   [
-   "vui lòng dùng tài khoản acb để thanh toán hóa đơn verizon tháng này",
+   "vui lòng dùng tài khoản acb để thanh toán hóa đơn viettel tháng này",
    "pay_bill"
   ],
   [
@@ -9753,7 +9741,7 @@
    "freeze_account"
   ],
   [
-   "tài khoản của mình có giao dịch mua hàng gian lận từ dave's video",
+   "tài khoản của mình có giao dịch mua hàng gian lận từ fpt shop",
    "report_fraud"
   ],
   [
@@ -9789,7 +9777,7 @@
    "freeze_account"
   ],
   [
-   "mình cần báo giao dịch gian lận trên thẻ bank of the west",
+   "mình cần báo giao dịch gian lận trên thẻ pvcombank",
    "report_fraud"
   ],
   [
@@ -9801,7 +9789,7 @@
    "report_lost_card"
   ],
   [
-   "điều gì khiến tài khoản ngân hàng nhà nước Việt Nam của mình bị giữ tiền",
+   "điều gì khiến tài khoản ngân hàng nhà nước việt nam của mình bị giữ tiền",
    "account_blocked"
   ],
   [
@@ -9877,7 +9865,7 @@
    "credit_score"
   ],
   [
-   "thanh toán hóa đơn con edison bằng tài khoản techcombank của tôi",
+   "thanh toán hóa đơn evn bằng tài khoản techcombank của tôi",
    "pay_bill"
   ],
   [
@@ -9893,7 +9881,7 @@
    "interest_rate"
   ],
   [
-   "tại sao thẻ của tôi bị từ chối khi thanh toán đồ ăn ở public",
+   "tại sao thẻ của tôi bị từ chối khi thanh toán đồ ăn ở aeon",
    "card_declined"
   ],
   [
@@ -9945,7 +9933,7 @@
    "report_fraud"
   ],
   [
-   "vì sao ngân hàng ngân hàng nhà nước Việt Nam lại tạm khóa tài khoản của tôi",
+   "vì sao ngân hàng ngân hàng nhà nước việt nam lại tạm khóa tài khoản của tôi",
    "account_blocked"
   ],
   [
@@ -10081,7 +10069,7 @@
    "balance"
   ],
   [
-   "tôi cần thanh toán tối thiểu bao nhiêu cho hóa đơn verizon",
+   "tôi cần thanh toán tối thiểu bao nhiêu cho hóa đơn viettel",
    "min_payment"
   ],
   [
@@ -10101,7 +10089,7 @@
    "pin_change"
   ],
   [
-   "lãi suất tôi đang được hưởng ở ngân hàng sunflower là bao nhiêu",
+   "lãi suất tôi đang được hưởng ở ngân hàng kienlongbank là bao nhiêu",
    "interest_rate"
   ],
   [
@@ -10141,7 +10129,7 @@
    "new_card"
   ],
   [
-   "bofi đang áp dụng lãi suất bao nhiêu cho chứng chỉ tiền gửi của tôi",
+   "pvcombank đang áp dụng lãi suất bao nhiêu cho chứng chỉ tiền gửi của tôi",
    "interest_rate"
   ],
   [
@@ -10149,7 +10137,7 @@
    "bill_balance"
   ],
   [
-   "hóa đơn comcast của tôi đến hạn khi nào",
+   "hóa đơn fpt của tôi đến hạn khi nào",
    "bill_due"
   ],
   [
@@ -10249,11 +10237,11 @@
    "interest_rate"
   ],
   [
-   "tôi đang mua đồ ăn ở Aeon thì thẻ bị từ chối",
+   "tôi đang mua đồ ăn ở aeon thì thẻ bị từ chối",
    "card_declined"
   ],
   [
-   "có một số giao dịch tại old navy trong tài khoản không phải do tôi thực hiện",
+   "có một số giao dịch tại uniqlo trong tài khoản không phải do tôi thực hiện",
    "report_fraud"
   ],
   [
@@ -10385,7 +10373,7 @@
    "report_fraud"
   ],
   [
-   "vui lòng chuyển 400k từ rbs sang tài khoản woodforest",
+   "vui lòng chuyển 400k từ saigonbank sang tài khoản pvcombank",
    "transfer"
   ],
   [
@@ -10409,7 +10397,7 @@
    "card_declined"
   ],
   [
-   "bạn có thể kiểm tra xem tại sao ngân hàng ngân hàng nhà nước Việt Nam lại tạm khóa tài khoản của tôi không",
+   "bạn có thể kiểm tra xem tại sao ngân hàng ngân hàng nhà nước việt nam lại tạm khóa tài khoản của tôi không",
    "account_blocked"
   ],
   [
@@ -10497,7 +10485,7 @@
    "transfer"
   ],
   [
-   "tại sao ngân hàng ngân hàng nhà nước Việt Nam lại tạm khóa tài khoản của tôi",
+   "tại sao ngân hàng ngân hàng nhà nước việt nam lại tạm khóa tài khoản của tôi",
    "account_blocked"
   ],
   [
@@ -10509,7 +10497,7 @@
    "report_lost_card"
   ],
   [
-   "tôi muốn đổi tên trên tài khoản thẻ first bankcard",
+   "tôi muốn đổi tên trên tài khoản thẻ msb",
    "pin_change"
   ],
   [
@@ -10517,7 +10505,7 @@
    "interest_rate"
   ],
   [
-   "có giao dịch mua hàng gian lận từ kayak trong tài khoản của tôi",
+   "có giao dịch mua hàng gian lận từ traveloka trong tài khoản của tôi",
    "report_fraud"
   ],
   [
@@ -10593,7 +10581,7 @@
    "account_blocked"
   ],
   [
-   "hạn mức tín dụng của thẻ state bank of india của tôi là bao nhiêu",
+   "hạn mức tín dụng của thẻ vietcombank của tôi là bao nhiêu",
    "credit_limit"
   ],
   [
@@ -10733,7 +10721,7 @@
    "card_declined"
   ],
   [
-   "số tiền tối thiểu tôi cần thanh toán cho hóa đơn verizon là bao nhiêu",
+   "số tiền tối thiểu tôi cần thanh toán cho hóa đơn viettel là bao nhiêu",
    "min_payment"
   ],
   [
@@ -10741,7 +10729,7 @@
    "bill_due"
   ],
   [
-   "tôi đang mua đồ ăn ở Aeon, tại sao thẻ lại bị từ chối",
+   "tôi đang mua đồ ăn ở aeon, tại sao thẻ lại bị từ chối",
    "card_declined"
   ],
   [
@@ -10749,7 +10737,7 @@
    "report_lost_card"
   ],
   [
-   "làm sao để xem ngày đến hạn hóa đơn bug của mình",
+   "làm sao để xem ngày đến hạn hóa đơn fpt của mình",
    "bill_due"
   ],
   [
@@ -10785,7 +10773,7 @@
    "bill_balance"
   ],
   [
-   "hình như có giao dịch mua hàng ở olive garden mà mình không thực hiện trong tài khoản",
+   "hình như có giao dịch mua hàng ở pizza 4p's mà mình không thực hiện trong tài khoản",
    "report_fraud"
   ],
   [
@@ -10822,10 +10810,6 @@
   ],
   [
    "thẻ ngân hàng đầu tiên của mình hết hạn vào ngày nào",
-   "expiration_date"
-  ],
-  [
-   "thẻ citi của mình hết hạn khi nào",
    "expiration_date"
   ],
   [
@@ -10941,7 +10925,7 @@
    "freeze_account"
   ],
   [
-   "chuyển 1,5 triệu giữa các tài khoản national và citizens",
+   "chuyển 1,5 triệu giữa các tài khoản seabank và bac a bank",
    "transfer"
   ],
   [
@@ -11135,7 +11119,7 @@
    "oos"
   ],
   [
-   "liệt kê giúp tôi các số liệu thống kê về Novak Djokovic",
+   "liệt kê giúp tôi các số liệu thống kê về novak djokovic",
    "oos"
   ],
   [
@@ -11247,7 +11231,7 @@
    "oos"
   ],
   [
-   "tìm giúp tôi tỉ lệ đá bóng trúng khung thành của Quang Hải",
+   "tìm giúp tôi tỉ lệ đá bóng trúng khung thành của quang hải",
    "oos"
   ],
   [
@@ -11529,7 +11513,7 @@
    "oos"
   ],
   [
-   "ngân hàng pnc có mở cửa không",
+   "ngân hàng seabank có mở cửa không",
    "oos"
   ],
   [
@@ -12295,7 +12279,7 @@
    "oos"
   ],
   [
-   "sở thuế irs mất bao lâu để hoàn thuế",
+   "sở thuế tổng cục thuế mất bao lâu để hoàn thuế",
    "oos"
   ],
   [
@@ -12307,7 +12291,7 @@
    "oos"
   ],
   [
-   "gọi uber đưa mình đến cửa hàng tạp hóa gần nhất",
+   "gọi grab đưa mình đến cửa hàng tạp hóa gần nhất",
    "oos"
   ],
   [
@@ -12363,7 +12347,7 @@
    "oos"
   ],
   [
-   "tôi có thể gọi thợ sửa thiết bị gia dụng của sear's không",
+   "tôi có thể gọi thợ sửa thiết bị gia dụng của vincom không",
    "oos"
   ],
   [
@@ -12755,7 +12739,7 @@
    "oos"
   ],
   [
-   "hủy đăng ký tạp chí  khoa học việt nam giúp tôi",
+   "hủy đăng ký tạp chí khoa học việt nam giúp tôi",
    "oos"
   ],
   [
@@ -12859,7 +12843,7 @@
    "oos"
   ],
   [
-   "tỷ suất sinh lời khi kinh doanh chênh lệch giá trên ebay hiện ra sao",
+   "tỷ suất sinh lời khi kinh doanh chênh lệch giá trên lazada hiện ra sao",
    "oos"
   ],
   [
