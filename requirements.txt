@@ -1,0 +1,12 @@
+# Vietnamese Banking Intent Classification - demo dependencies
+# Lower bounds are conservative; pin exact versions once the app runs on your machine.
+# (Training notebook ran on: torch 2.11.0, transformers 5.22.0, underthesea 9.5.0)
+
+torch>=2.2
+transformers>=4.44
+underthesea>=6.8
+gradio>=4.44
+numpy>=1.26
+
+# CPU-only machine (smaller install than the default CUDA build of torch):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
